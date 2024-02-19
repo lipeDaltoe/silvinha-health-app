@@ -1,0 +1,6 @@
+Configuração da Conta local do GIT:
+    git config --global user.name lipeDaltoe
+    git config --global user.email felipedaltoe9@gmail.com
+
+Criar um projeto React Native com Expo:
+    npx create-expo-app SilvinhaHealthApp
