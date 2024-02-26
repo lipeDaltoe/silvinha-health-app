@@ -4,3 +4,10 @@ Configuração da Conta local do GIT:
 
 Criar um projeto React Native com Expo:
     npx create-expo-app SilvinhaHealthApp
+
+Executar o projeto:
+    Estar na pasta do projeto
+    npx expo start --localhost --android
+
+Restaurar um projeto após clonar:
+    npm i
